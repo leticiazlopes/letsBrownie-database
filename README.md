@@ -12,7 +12,7 @@ Projeto desenvolvimento para a cadeira de Banco de Dados 1 do curso Sistemas par
 <br>
 
 ## Modelo Conceitual
-![modelo conceitual](image.png)
+![modelo conceitual](modelo-conceitual.png)
 <hr>
 <br>
 
