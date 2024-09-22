@@ -12,9 +12,12 @@ Projeto desenvolvimento para a cadeira de Banco de Dados 1 do curso Sistemas par
 <br>
 
 ## Modelo Conceitual
-![modelo conceitual](image.png)
+![modelo conceitual](assets/image.png)
 <hr>
 <br>
+
+## Modelo Lógico
+![modelo lógico](/assets/logico.png)
 
 ## Desenvolvedores
 - Letícia Lopes Lima
